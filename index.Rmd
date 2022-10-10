@@ -42,6 +42,7 @@ pre { /* Code block - determines code spacing between lines */
 - [The `dessert` package](https://github.com/gerkovink/dessert)
 - [INFOMDA1: Supervised learning and visualization](https://github.com/gerkovink/INFOMDA1-2022)
 - [Markup Languages and Reprocible Programming in Statistics](https://github.com/gerkovink/markup)
+- [synthemice publication archive](https://github.com/amices/Synthemice)
 
 ---
 
@@ -49,11 +50,18 @@ pre { /* Code block - determines code spacing between lines */
 
 I prefer to use for:
 
-- source code the [GNU GPL V3] licence
-- attributes and materials the [CC-BY-SA V4] licence
+- source code the [GNU GPL V3](https://www.gnu.org/licenses/gpl-3.0.en.html) licence
+- attributes and materials the [CC-BY-SA V4](https://creativecommons.org/licenses/by-sa/4.0/) licence
 
 These specific licences coexist nicely and are invoked by the type of content the user aims to (re)use. Both these licences are copy-left. This means that any project building from it inherits the same licence properties. This explicitly prohibits further closed source distribution. 
 
 ---
 
 ![](https://www.gerkovink.com/images/pubdom.png)
+
+---
+
+```{r}
+sessionInfo()
+```
+
