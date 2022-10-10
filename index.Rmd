@@ -44,6 +44,7 @@ pre { /* Code block - determines code spacing between lines */
 - [Markup Languages and Reprocible Programming in Statistics](https://github.com/gerkovink/markup)
 - [synthemice publication archive](https://github.com/amices/Synthemice)
 
+
 ---
 
 ## Licences
@@ -54,6 +55,16 @@ I prefer to use for:
 - attributes and materials the [CC-BY-SA V4](https://creativecommons.org/licenses/by-sa/4.0/) licence
 
 These specific licences coexist nicely and are invoked by the type of content the user aims to (re)use. Both these licences are copy-left. This means that any project building from it inherits the same licence properties. This explicitly prohibits further closed source distribution. 
+
+---
+
+## Why open on GitHub?
+I believe that this is a wonderful platform for
+
+1. Managing open (source) projects and education
+2. Keeping track of fair contributions
+3. Empowering early career researchers with visualizing their contributions and impact
+4. Demonstrate skill (and lack thereof)
 
 ---
 
