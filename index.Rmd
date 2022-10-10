@@ -1,0 +1,59 @@
+---
+title: "![](https://github.com/amices/mice/raw/master/man/figures/MICE_sticker_SMALL.png){width=20%}![](https://github.com/amices/ggmice/raw/main/man/figures/logo.png){width=20%}![](https://github.com/gerkovink/markup2022/raw/main/sticker.png){width=20%}![](https://github.com/gerkovink/dessert/raw/main/hex-dessert.png){width=20%}"
+author: "Gerko Vink"
+date: "open science/edu demo"
+output: html_document
+---
+
+<style type="text/css">
+
+body{ /* Normal  */
+      font-size: 12px;
+  }
+td {  /* Table  */
+  font-size: 12px;
+}
+h1.title {
+  font-size: 20px;
+  color: DarkBlue;
+}
+h1 { /* Header 1 */
+  font-size: 18px;
+}
+h2 { /* Header 2 */
+    font-size: 16px;
+}
+h3 { /* Header 3 */
+  font-size: 14px;
+}
+code.r{ /* Code block */
+    font-size: 12px;
+}
+pre { /* Code block - determines code spacing between lines */
+    font-size: 12px;
+}
+</style>
+
+
+---
+
+## Some projects 
+
+- [The `dessert` package](https://github.com/gerkovink/dessert)
+- [INFOMDA1: Supervised learning and visualization](https://github.com/gerkovink/INFOMDA1-2022)
+- [Markup Languages and Reprocible Programming in Statistics](https://github.com/gerkovink/markup)
+
+---
+
+## Licences
+
+I prefer to use for:
+
+- source code the [GNU GPL V3] licence
+- attributes and materials the [CC-BY-SA V4] licence
+
+These specific licences coexist nicely and are invoked by the type of content the user aims to (re)use. Both these licences are copy-left. This means that any project building from it inherits the same licence properties. This explicitly prohibits further closed source distribution. 
+
+---
+
+![](https://www.gerkovink.com/images/pubdom.png)
