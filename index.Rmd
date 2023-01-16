@@ -1,5 +1,5 @@
 ---
-title: "![](https://github.com/amices/mice/raw/master/man/figures/MICE_sticker_SMALL.png){width=20%}![](https://github.com/amices/ggmice/raw/main/man/figures/logo.png){width=20%}![](https://github.com/gerkovink/markup2022/raw/main/sticker.png){width=20%}![](https://github.com/gerkovink/dessert/raw/main/hex-dessert.png){width=20%}"
+title: "![](https://github.com/amices/mice/raw/master/man/figures/MICE_sticker_SMALL.png){width=20%}![](https://github.com/amices/ggmice/raw/main/man/figures/logo.png){width=20%}![](https://github.com/gerkovink/markup2022/raw/main/sticker.png){width=20%}![](https://github.com/gerkovink/dessert/raw/main/img/hex_dessert.png){width=20%}"
 author: "Gerko Vink"
 date: "open science/edu demo"
 output: html_document
@@ -47,7 +47,7 @@ pre { /* Code block - determines code spacing between lines */
 - [INFOMDA1: Supervised learning and visualization](https://github.com/gerkovink/INFOMDA1-2022)
 - [Markup Languages and Reprocible Programming in Statistics](https://github.com/gerkovink/markup)
 - [synthemice publication archive](https://github.com/amices/Synthemice)
-
+- [R Summer School](https://www.gerkovink.com)
 
 ---
 
